@@ -48,8 +48,6 @@ then
 
         pkg install metasploit
 
-        bundle update nokogiri
-
 	cd $HOME
 
         msfconsole
