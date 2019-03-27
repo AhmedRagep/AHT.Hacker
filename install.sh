@@ -33,6 +33,10 @@ echo
 
 	cd $HOME/AHT.Hacker
 	
+	mkdir home
+	
+	cd $HOME/AHT.Hacker
+	
 	mv apkmeta.sh waite.sh home
 
 	chmod 555 *
