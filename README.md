@@ -5,11 +5,16 @@
 
 # install AHT.Hacker
 
-$$ apt update && apt upgrade -y
-$$ pkg install git 
-$$ git clone https://github.com/Ahmed-Altorky-Android/AHT.Hacker.git
-$$ cd AHT.Hacker
-$$ bash install.sh
-$$ bash AHT.sh
+** apt update && apt upgrade -y
+
+** pkg install git 
+
+** git clone https://github.com/Ahmed-Altorky-Android/AHT.Hacker.git
+
+** cd AHT.Hacker
+
+** bash install.sh
+
+** bash AHT.sh
 
       Don Installed
