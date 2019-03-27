@@ -37,7 +37,7 @@ echo
 	
 	cd $HOME/AHT.Hacker
 	
-	mv apkmeta.sh waite.sh home
+	mv apkmeta.sh waite.sh ngrok home
 
 	chmod 555 *
 
