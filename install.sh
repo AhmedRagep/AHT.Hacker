@@ -32,6 +32,8 @@ echo
         apt install proot 
 
 	cd $HOME/AHT.Hacker
+	
+	mv apkmeta.sh waite.sh home
 
 	chmod 555 *
 
