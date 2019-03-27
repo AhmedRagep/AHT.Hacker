@@ -1,6 +1,6 @@
 echo 
 	
-	echo -e -n "pleese enter logen" ;read enter	
+	echo -e -n "pleese enter logen~# " ;read enter	
 	apt update 
 
         apt upgrade 
