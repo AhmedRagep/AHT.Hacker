@@ -2,8 +2,8 @@
 # py : Ahmed Altorky
 # facebook : https://www.facebook.com/Ahmed.Altorky.Android
 # youtube : https://www.youtube.com/channel/UCTUFvrUd3hIUNWzbVWJjBGQ
-
-# install AHT.Hacker
+# watssapp : 01095616440
+# install AHT.Hacker V 2.0
 
 ** apt update && apt upgrade -y
 
@@ -17,4 +17,4 @@
 
 ** bash AHT.sh
 
-      Don Installed
+                        Don Installed
