@@ -469,13 +469,13 @@ email(){
 		cd $HOME/AHT.Hacker/home
                 bash .waite.sh
 		echo -e "$a Example :$e hotmail.com" 
-		echo -e -n "$c domain : ";read domain
+		echo -e -n "$c domain :$d ";read domain
 		echo -e "$a Example :$e 100 " 
-		echo -e -n "$b Number of results : ";read numper
+		echo -e -n "$b Number of results :$c ";read numper
 		echo -e "$a Example :$e google " 
-		echo -e -n "$d the Site : ";read site
+		echo -e -n "$d the Site :$b ";read site
 		echo -e "$a Example :$e name.txt"
-		echo -e -n "$c Name file";read name
+		echo -e -n "$c Name file :$b";read name
 		cd $HOME/theHarvester
 		python3 theHarvester.py -d $domain -l $numper -b $site > $name
 		cd $HOME/theHarvester
