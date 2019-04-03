@@ -68,6 +68,6 @@ echo
 
 	cd $HOME/AHT.Hacker
 
-	rm install.sh
+	rm install.sh -y
 
 figlet -f big "			Done     	"
