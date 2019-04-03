@@ -62,6 +62,10 @@ echo
 
 	mv viapk.sh $HOME/AHT.Hacker/home/.viapk
 	
+	cd $HOME/AHT.Hacker/home/.viapk
+	
+	mv viapk.sh .viapk.sh
+	
 	cd $HOME/AHT.Hacker
 	
 	chmod 555 *
