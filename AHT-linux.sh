@@ -82,7 +82,7 @@ main(){
 	echo -e "$green[$red 09 $green]$white opensuse";sleep 0.2
 	echo -e "$green[$red 10 $green]$white arch ";sleep 0.2
 	echo -e "$green[$red 11 $green]$white strap";sleep 0.2
-	echo -e "$green[$red XX $green] $white Exit ";sleep 0.2
+	echo -e "$green[$red 00 $green] $white Exit ";sleep 0.2
 	echo -e $blu
 	read -p "[ AHT @ Hacker ]~# " aht
 
