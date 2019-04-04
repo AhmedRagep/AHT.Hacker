@@ -33,6 +33,8 @@ echo
         apt install curl 
 
         apt install proot
+	
+	pkg install slowloris
 
 	cd $HOME/AHT.Hacker
 	
