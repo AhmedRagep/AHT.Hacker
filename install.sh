@@ -19,6 +19,8 @@ echo
         apt install python
 	
 	apt install python2
+	
+	pkg install php
 
         apt install ruby 
 
