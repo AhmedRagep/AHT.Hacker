@@ -16,7 +16,9 @@ echo
 
         apt install python3 
 
-        apt install python 
+        apt install python
+	
+	apt install python2
 
         apt install ruby 
 
