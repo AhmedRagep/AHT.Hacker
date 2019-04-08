@@ -39,6 +39,8 @@ echo
         apt install proot
 	
 	pkg install slowloris
+	
+	pkg install hydra
 
 	cd $HOME/AHT.Hacker
 	
