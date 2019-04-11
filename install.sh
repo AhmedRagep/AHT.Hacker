@@ -41,6 +41,10 @@ echo
 	pkg install slowloris
 	
 	pkg install hydra
+	
+	pkg install clang
+	
+	apt install tor
 
 	cd $HOME/AHT.Hacker
 	
@@ -80,6 +84,4 @@ echo
 
 	cd $HOME/AHT.Hacker
 
-	rm install.sh
-
-figlet -f big "			Done     	"
+	rm install.sh	
