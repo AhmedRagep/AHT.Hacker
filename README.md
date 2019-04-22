@@ -3,7 +3,7 @@
 # facebook : https://www.facebook.com/Ahmed.Altorky.Android
 # youtube : https://www.youtube.com/channel/UCTUFvrUd3hIUNWzbVWJjBGQ
 # watssapp : 01095616440
-# install AHT.Hacker V 5.0
+# install AHT.Hacker V 6.0
 
 ** apt update && apt upgrade -y
 
