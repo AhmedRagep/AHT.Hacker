@@ -4,7 +4,7 @@
 # youtube : https://www.youtube.com/channel/UCTUFvrUd3hIUNWzbVWJjBGQ
 # watssapp : 01095616440
 # install AHT.Hacker V 6.0
-
+```
 ** apt update && apt upgrade -y
 
 ** pkg install git 
@@ -16,5 +16,5 @@
 ** bash install.sh
 
 ** bash AHT.sh
-
+```
                         Don Installed
