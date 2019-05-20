@@ -5,7 +5,7 @@
 # watssapp : 01095616440
 # install AHT.Hacker V 6.0
 
-<img SRC="https://www.google.com/search?q=AHT+Hacker&client=ms-android-tecno&prmd=vin&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_zoTtw6riAhWPM-wKHYJzAs8Q_AUoAnoECAwQAg&biw=360&bih=616#imgrc=l52y037_iubQVM">
+<img SRC="https://images.app.goo.gl/fsCyDzhUTAnkw77F6">
 
 ```
 ** apt update && apt upgrade -y
